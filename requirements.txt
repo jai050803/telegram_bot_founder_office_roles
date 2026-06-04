@@ -1,0 +1,8 @@
+python-telegram-bot
+supabase
+google-generativeai
+groq
+beautifulsoup4
+requests
+python-dotenv
+rich
