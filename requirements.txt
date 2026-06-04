@@ -6,6 +6,5 @@ beautifulsoup4
 requests
 python-dotenv
 rich
-<<<<<<< HEAD
 aiohttp
 lxml
