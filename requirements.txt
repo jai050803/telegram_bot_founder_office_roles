@@ -9,5 +9,3 @@ rich
 <<<<<<< HEAD
 aiohttp
 lxml
-=======
->>>>>>> 8a4b6b8f9536d303abd8c4d19ec4bc939fc30d31
